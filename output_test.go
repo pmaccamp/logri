@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	. "github.com/zenoss/logri"
+	. "github.com/pmaccamp/logri"
 
 	. "gopkg.in/check.v1"
 )
